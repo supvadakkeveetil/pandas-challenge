@@ -104,11 +104,12 @@ $645-680	    76.997210	 81.027843	 66.164813	 81.133951	 53.526855
 
 ### Scores by School Size
 
-                    Average 	Average Reading % Passing 	% Passing 	%Overall Passing
-School Size			Math Score	Score           Math        Reading
-Small (<1000)	    83.821598	83.929843	    93.550225	96.099437	 89.883853
-Medium (1000-2000)	83.374684	83.864438	    93.599695	96.790680	 90.621535
-Large (2000-5000)	77.746417	81.344493	    69.963361	82.766634	 58.286003
+|                     | Average Math Score| Average Reading Score | % Passing Math | 	% Passing Reading |	%Overall Passing |
+|---------------------|-------------------|-----------------------|----------------|--------------------| -----------------|
+| School Size			      |                   |                       | 
+| Small (<1000)	      |  83.821598	       |  83.929843	           |  93.550225	    |     96.099437	     |   89.883853      |      
+| Medium (1000-2000)	 |  83.374684	       |  83.864438	           |  93.599695	    |     96.790680	     |   90.621535      |
+| Large (2000-5000)	  |  77.746417	       |  81.344493	           |  69.963361	    |     82.766634	     |   58.286003      |
 
 ### Scores by School Type
 |           | Average Math Score	 | Average Reading Score | % Passing Math | % Passing Reading |	%Overall Passing |
