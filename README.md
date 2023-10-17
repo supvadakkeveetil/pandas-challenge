@@ -17,7 +17,7 @@ Task - Aggregate data to showcase trends in school performance.
 
 ### Snapshot of School Summary
 
-                         School Type| Total Students |Total School Budget |PerStudent Budget| Average Math Score |Avg Reading Score| % Passing Math | % Passing Reading | % Overall Passing|  
+|                      | School Type| Total Students |Total School Budget |PerStudent Budget| Average Math Score |Avg Reading Score| % Passing Math | % Passing Reading | % Overall Passing|  
 |----------------------|------------|----------------|--------------------|-----------------|--------------------|-----------------|----------------|-------------------|------------------| 
 |Bailey High School	   | District	  |  4976	         | $3,124,928.00	     | $628.00	        | 77.048432	         |  81.033963	     | 66.680064	     |   81.933280	      |    54.642283     |
 |Cabrera High School	  | Charter	   |  1858	         | $1,081,356.00	     | $582.00	        | 83.061895	         |  83.975780	     | 94.133477	     |   97.039828	      |    91.334769     |
