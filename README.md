@@ -17,7 +17,8 @@ Task - Aggregate data to showcase trends in school performance.
 
 ### Snapshot of School Summary
 
-                         School Type| Total Students |Total School Budget |PerStudent Budget| Average Math Score |Avg Reading Score| % Passing Math | % Passing Reading | % Overall Passing|              |----------------------|------------|----------------|--------------------|-----------------|--------------------|-----------------|----------------|-------------------|------------------| 
+                         School Type| Total Students |Total School Budget |PerStudent Budget| Average Math Score |Avg Reading Score| % Passing Math | % Passing Reading | % Overall Passing|  
+|----------------------|------------|----------------|--------------------|-----------------|--------------------|-----------------|----------------|-------------------|------------------| 
 |Bailey High School	   | District	  |  4976	         | $3,124,928.00	     | $628.00	        | 77.048432	         |  81.033963	     | 66.680064	     |   81.933280	      |    54.642283     |
 |Cabrera High School	  | Charter	   |  1858	         | $1,081,356.00	     | $582.00	        | 83.061895	         |  83.975780	     | 94.133477	     |   97.039828	      |    91.334769     |
 |Figueroa High School  | District	  |  2949	         | $1,884,411.00	     | $639.00	        | 76.711767	         |  81.158020	     | 65.988471	     |   80.739234	      |    53.204476     |
@@ -110,9 +111,9 @@ Medium (1000-2000)	83.374684	83.864438	    93.599695	96.790680	 90.621535
 Large (2000-5000)	77.746417	81.344493	    69.963361	82.766634	 58.286003
 
 ### Scores by School Type
-            | Average Math Score	 | Average Reading Score | % Passing Math | % Passing Reading |	%Overall Passing |
-            |---------------------|-----------------------|----------------|-------------------|------------------|
-|School Type|---------------------|-----------------------|----------------|-------------------|------------------|     
+|           | Average Math Score	 | Average Reading Score | % Passing Math | % Passing Reading |	%Overall Passing |
+|-----------|---------------------|-----------------------|----------------|-------------------|------------------|
+|School Type|                     |                       |                |                   |                  |    
 | Charter	  | 83.473852	          |   83.896421	          |  93.620830	    |  96.586489	       |   90.432244      |
 | District	 | 76.956733	          |   80.966636	          |  66.548453	    |  80.799062	       |   53.672208      |
 
