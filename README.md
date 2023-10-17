@@ -8,8 +8,11 @@ Task - Aggregate data to showcase trends in school performance.
 
 ### Snapshot of District Summary 
 
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	%Overall Passing
- 	15	         39,170	        $24,649,428.00	  78.985371	          81.87784	              74.980853	       85.805463	       65.172326
+
+
+ Total Schools |	Total Students	 |Total Budget	   | Average Math Score	|  Average Reading Score |	% Passing Math	| % Passing Reading	| %Overall Passing |
+|--------------|-----------------|----------------|--------------------|------------------------|----------------|-------------------|------------------|
+| 	 15	        | 39,170	         | $24,649,428.00	|  78.985371	        |  81.87784	             | 74.980853	     |    85.805463	     |   65.172326      |
 
 
 ### Snapshot of School Summary
